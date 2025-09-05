@@ -25,4 +25,4 @@ Unfortunately, I have not been about to get much higher than just above 0.99 AUC
 
 ### ViT_From_Scratch
 
-This is a project I am doing just to ensure my understanding of these models is correct. I do not intend on rebuilding the wheel and competing with models like DINOv2 at all, but I feel that this is a worthwhile educational exercise for me to undertake. Training is done on the MNIST dataset, not our working set of datasets with pretrained models.
+This is a project I am doing just to ensure my understanding of these models is correct. I do not intend on reinventing the wheel and competing with models like DINOv2 at all, but I feel that this is a worthwhile educational exercise for me to undertake. Training is done on the MNIST dataset, not our working set of datasets with pretrained models.
