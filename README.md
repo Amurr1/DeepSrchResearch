@@ -2,7 +2,7 @@
 
 This folder contains the explorations I have done with both EfficientNet and various ViT architectures for the purpose of classifying and/or performing weakly supervised segmentation.
 
-*NOTE: All AUC metrics listed are for TS40 unless stated otherwise.*
+*NOTE: Unless stated otherwise, all AUC metrics listed are for the TS40 dataset (groundbased observations of lensed and non-lensed galaxy systems).*
 
 ### EffNetModifications
 
