@@ -18,10 +18,10 @@ DINOv2 is a much more promising start for segmentation for a few reasons:
 - It has a CLS token, which is used for mapping classification outcomes to portions of the original image.
 - It has better weakly supervised performance than other models.
 - It has been improved through recent research on modified CLS tokens in these two papers:
-   - Registers (https://arxiv.org/abs/2309.16588, 2024)
-   - “Jumbo” CLS (https://arxiv.org/abs/2502.15021, 2025)
+   - [Registers 2024](https://arxiv.org/abs/2309.16588)
+   - [“Jumbo” CLS 2025](https://arxiv.org/abs/2502.15021)
 
-Unfortunately, I have not been about to get much higher than just above 0.99 AUC, and segmentation has proven difficult.
+Unfortunately, I have not been about to get much higher than just above 0.99 AUC, and segmentation has proven difficult. However, once I either work things out with DINOv2 or switch to a different model, I aim to replicate the work of this [2023 paper](https://arxiv.org/abs/2310.03967v2) which details a method of getting attention heat maps from ViTs with sub-patch resolution. 
 
 ### ViT_From_Scratch
 
